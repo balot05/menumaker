@@ -1,0 +1,1 @@
+This is my first git repository for my first ASP.NET MVC C# Web project! Good luck to me!
